@@ -1,3 +1,3 @@
-# Demo :
+# Coffee Store Website :
 
 some description will be introduced soon...
